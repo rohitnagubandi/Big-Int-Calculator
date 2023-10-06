@@ -1,4 +1,4 @@
-# Assignment 6 - pa6
+Big Int Calculator
 Code and Design made by: Rohit Venkat Abhiram Nagubandi
 Cruzid:rnaguban
 
@@ -6,15 +6,10 @@ Onine Sources used:
 https://cplusplus.com/reference/string/string/substr/
 https://cplusplus.com/reference/cctype/isdigit/
 https://www.geeksforgeeks.org/stringstream-c-applications/
-I also used the Professor's Notes.
-
-People Sources:
-I used Mahyar's Puesdocode for Mult and Scalar Mult.
-Professor Tantalo helped me conceptualize the constructor and also provided me some puesdocode for it. 
 
 ## File Description
 
-- Arithmetic.cpp : Does the calculations(on the assignment document) based on the given in file
+- Arithmetic.cpp : Does the calculations based on the given in file
 
 - BigInteger.cpp : Contains an BigInteger ADT
 
