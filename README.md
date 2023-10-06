@@ -1,6 +1,5 @@
 # Big Int Calculator
 Code and Design made by: Rohit Venkat Abhiram Nagubandi
-Cruzid:rnaguban
 
 Onine Sources used:
 https://cplusplus.com/reference/string/string/substr/
